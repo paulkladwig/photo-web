@@ -1,0 +1,9 @@
+.btn-blue{
+	background-color: rgb(114, 199, 255);
+	padding: 10px;
+	border-radius: 4px;
+	color: white;
+	font-color: black;
+	font-weight: bold;
+	font-family: 'Merriweather', serif;
+}
